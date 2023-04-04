@@ -3,7 +3,7 @@
 This repo demonstrates how `@nrwl/esbuild` handles workspace library dependencies when not bundling the app (e.g. `nx build --bundle=false`).
 
 ```shell
-yarn install
+npm install
 nx build
 ```
 
